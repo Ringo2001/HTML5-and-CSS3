@@ -1,0 +1,27 @@
+<!--HTML formatting source code-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HTML FORMATTING</title>
+         
+    </head>
+    <body>
+        <h1>This is a paragraph</h1>
+        This is just a text.
+        <p>This is a pragraph....</p>
+        <b>This is bold text...</b>
+        <br>
+        <strong>This is strong text...</strong>
+        <br>
+        <i>This is italic text....##</i>
+        <br>
+        <em>this is emphasized text</em>
+        <br>
+        <h1>This is an example of a <small>small</small> text formatting</h1>
+        <br>
+        <h1>This is an exaxmple of a <mark>marked</mark> text formatting</h1>
+        
+        
+         
+    </body>
+</html>
